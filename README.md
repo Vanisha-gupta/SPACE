@@ -1,6 +1,3 @@
-/*
-
-
 This code is a PHP script that connects to a MySQL database to perform CRUD (Create, Read, Update, Delete) operations on a table named 'notes'. It allows users to add, edit, and delete notes. The HTML part of the code contains forms for adding and editing notes, as well as a table to display the existing notes. JavaScript is used to handle edit and delete actions on the notes. The PHP code handles database connections, insertion, deletion, and updating of notes based on user actions.
 
 _______________________________
@@ -30,6 +27,3 @@ Save the provided PHP code in a file named index.php within this directory.
 
 Open a web browser and navigate to http://localhost/crud/index.php.
 You should see the interface for adding, viewing, editing, and deleting notes.
-
-
-*/
